@@ -24,6 +24,9 @@ As part of this academic group project, I contributed to:
 -Developing charts, maps and other visualizations.
 -Analyzing renewable energy production, capacity and investment trends.
 
+## Dashboard Preview
+[Global Renewable Energy Transition](Dashboard_overview.png)
+
 ## Key Findings
 Based on the dashboard analysis:
 -India recorded the highest displayed renewable energy production, at approximately 3,690,246 GWh.
