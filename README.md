@@ -25,7 +25,7 @@ As part of this academic group project, I contributed to:
 -Analyzing renewable energy production, capacity and investment trends.
 
 ## Dashboard Preview
-(Dashboard_overview.png)
+[Dashboard_overview.png]
 
 ## Key Findings
 Based on the dashboard analysis:
